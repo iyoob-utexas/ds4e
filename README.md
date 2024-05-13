@@ -1,4 +1,4 @@
-# Data Science for Engineers
+<img src="img/utexas_ds_orie_header.png" alt="drawing" style="width:900px;"/>
 <img src="img/utexas_ds_orie_divider.png" alt="drawing" style="width:900px;"/>
 
 This University of Texas course teaches Data Science through Experiential Learning.  Students work with data sets from day one and progressively gain Data Science skills as they learn from their mistakes.
