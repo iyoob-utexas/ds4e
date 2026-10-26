@@ -14,4 +14,4 @@ Dr. Ilyas Iyoob is faculty of Data Science and Artificial Intelligence in the Co
 
 ## Recorded classroom session
 
-[Data Science Masterclass](https://www.youtube.com/watch?v=798bZ6OghBM&list=PLEtteQqlECpejAw48e5mHXRuKGjXV4076)
+[Data Science Masterclass](https://www.youtube.com/watch?v=nXy1ktRnA6A&list=PL5j5qZjtuTo7OtChSxK8i5Le8wb5AB55q)
